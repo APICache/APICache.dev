@@ -1,6 +1,6 @@
 # APICache.dev
 
-Welcome to the APICache.dev GitHub repository! This repository is dedicated to handling questions, bug reports, and feature requests related to APICache.dev, a free API caching service.
+Welcome to the [APICache.dev](https://apicache.dev/) GitHub repository! This repository is dedicated to handling questions, bug reports, and feature requests related to APICache.dev, a free API caching service.
 
 ## Getting Started
 
