@@ -1,4 +1,5 @@
 # APICache.dev
+![logo transparency1](https://github.com/APICache/APICache.dev/assets/68580992/40f8b26e-ed81-4f0c-9b39-6e15f6583959)
 
 Welcome to the [APICache.dev](https://apicache.dev/) GitHub repository! This repository is dedicated to handling questions, bug reports, and feature requests related to APICache.dev, a free API caching service.
 
